@@ -1,0 +1,14 @@
+.dark {
+    background-color: #333;
+    color: rgb(251, 198, 133);
+}
+.light {
+    background-color: bisque;
+    color: #333;
+}
+.todo {
+    cursor: pointer;
+  }
+.strike {
+    text-decoration: line-through;
+}
